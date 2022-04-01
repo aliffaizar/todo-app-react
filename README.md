@@ -1,6 +1,6 @@
 # Todo App ReactJs
 
-I create this project for pracicing javascript and reactjs
+I create this project for practicing javascript and reactjs
 
 ## Usage
 ### clone repository 
